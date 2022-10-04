@@ -9,7 +9,7 @@ import android.widget.EditText;
 import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
-
+/*este es un comentario de pruba*/
 public class MainActivity extends AppCompatActivity {
     private EditText et1, et2, et3, et4, et5;
     private TextView tv1,tv2,tv3,tv4,tv5,tv6,tv7,tv8,tv9,tv10,tv11;
